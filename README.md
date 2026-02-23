@@ -30,10 +30,8 @@ I am a passionate **Frontend Developer** and **UI/UX Designer** dedicated to bui
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Ajay-Paudel">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay-Paudel&theme=tokyonight" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ajay-Paudel&theme=tokyonight" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay-Paudel&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ajay-Paudel&theme=tokyonight" />
 </p>
 
 <p align="center">
