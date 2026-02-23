@@ -38,10 +38,6 @@ I am a passionate **Frontend Developer** and **UI/UX Designer** dedicated to bui
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Paudel&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ajay-Paudel/Ajay-Paudel/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 ---
 
 ### 🤝 Connect with Me
@@ -57,6 +53,10 @@ I am a passionate **Frontend Developer** and **UI/UX Designer** dedicated to bui
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ajay-Paudel/Ajay-Paudel/output/github-contribution-grid-snake-dark.svg?v=1" alt="Snake animation" />
+</p>
 
 ---
 
