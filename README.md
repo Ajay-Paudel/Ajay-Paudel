@@ -42,17 +42,17 @@ I am a passionate **Frontend Developer** and **UI/UX Designer** dedicated to bui
 
 ### 🤝 Connect with Me
 
-<p align="left">
+<div align="left">
   <a href="https://www.ajay-paudel.com.np/" target="blank">
-    <img src="https://skillicons.dev/icons?i=htmx" alt="Website" height="40" />
+    <img src="https://img.shields.io/badge/Website-1d3557?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/paudelajay/" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ajayindrapaudel@gmail.com" target="blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
+</div>
 
 ---
 
