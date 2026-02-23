@@ -45,9 +45,15 @@ I am a passionate **Frontend Developer** and **UI/UX Designer** dedicated to bui
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.ajay-paudel.com.np/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="ajay-paudel.com.np" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/paudelajay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paudelajay" height="30" width="40" /></a>
-  <a href="mailto:ajayindrapaudel@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ajayindrapaudel@gmail.com" height="30" width="40" /></a>
+  <a href="https://www.ajay-paudel.com.np/" target="blank">
+    <img src="https://skillicons.dev/icons?i=htmx" alt="Website" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/paudelajay/" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>
+  <a href="mailto:ajayindrapaudel@gmail.com" target="blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
+  </a>
 </p>
 
 ---
