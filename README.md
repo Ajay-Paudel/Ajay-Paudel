@@ -31,8 +31,8 @@ I am a passionate **Frontend Developer** and **UI/UX Designer** dedicated to bui
 
 <p align="center">
   <a href="https://github.com/Ajay-Paudel">
-    <img height="180em" src="https://github-readme-stats-six-rebel.vercel.app/api?username=Ajay-Paudel&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats-six-rebel.vercel.app/api/top-langs/?username=Ajay-Paudel&layout=compact&theme=tokyonight&hide_border=true" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay-Paudel&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ajay-Paudel&theme=tokyonight" />
   </a>
 </p>
 
