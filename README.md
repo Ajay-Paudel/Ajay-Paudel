@@ -35,7 +35,7 @@ I am a passionate **Frontend Developer** and **UI/UX Designer** dedicated to bui
 </p>
 
 <p align="center">
-  <img src="https://git.io/streak-stats?user=Ajay-Paudel&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ajay-Paudel&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
