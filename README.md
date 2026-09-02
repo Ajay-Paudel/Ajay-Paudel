@@ -54,10 +54,6 @@ I am a passionate **Frontend Developer** and **UI/UX Designer** dedicated to bui
   </a>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ajay-Paudel/Ajay-Paudel/output/github-contribution-grid-snake-dark.svg?v=1" alt="Snake animation" />
-</p>
-
 ---
 
 <p align="center">
